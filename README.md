@@ -1,6 +1,13 @@
 # AngularEcharts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+Código completo del tutorial para graficar la evolución del precio de Bitcoin usando Angular y Echarts.
+
+[Primera parte](https://postcode-x.web.app/posts/graficar-evolucion-precio-bitcoin-echarts-angular-primera-parte/)
+
+[Segunda parte](https://postcode-x.web.app/posts/graficar-evolucion-precio-bitcoin-echarts-angular-segunda-parte/)
+
+![alt text](https://github.com/postcode-x/angular-echart/blob/master/screenshot/bitcoin.png)
+
 
 ## Development server
 
