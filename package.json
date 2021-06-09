@@ -21,6 +21,7 @@
     "@angular/router": "~12.0.3",
     "@ng-bootstrap/ng-bootstrap": "^9.1.2",
     "bootstrap": "^4.5.0",
+    "css-what": "^5.0.1",
     "echarts": "^5.1.2",
     "ngx-echarts": "^7.0.1",
     "rxjs": "~6.6.0",
