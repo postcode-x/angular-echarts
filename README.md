@@ -6,7 +6,7 @@ Código completo del tutorial para graficar la evolución del precio de Bitcoin 
 
 [Segunda parte](https://postcode-x.web.app/posts/graficar-evolucion-precio-bitcoin-echarts-angular-segunda-parte/)
 
-![alt text](https://github.com/postcode-x/angular-echart/blob/master/screenshot/bitcoin.png)
+![alt text](https://github.com/postcode-x/angular-echarts/blob/master/screenshot/bitcoin.png)
 
 
 ## Development server
