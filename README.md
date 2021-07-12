@@ -1,6 +1,6 @@
 # AngularEcharts
 
-Código completo del tutorial para graficar la evolución del precio de Bitcoin usando Angular y Echarts.
+Código completo del tutorial para graficar la evolución del precio de Bitcoin usando Angular & Echarts.
 
 [Primera parte](https://postcode-x.web.app/posts/graficar-evolucion-precio-bitcoin-echarts-angular-primera-parte/)
 
