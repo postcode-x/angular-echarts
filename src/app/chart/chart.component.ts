@@ -32,7 +32,7 @@ export class ChartComponent implements OnInit {
       backgroundColor: 'rgba(255, 255, 255, 0.8)',
       extraCssText: 'width: 170px',
       formatter: function (params: any) {
-        console.log(params);
+        //console.log(params);
         return `<strong>${params[0].axisValueLabel}</strong> <br/>
                 <strong>Precio (USD)</strong>: $${params[0].data[1]} <br/>`;
       },
