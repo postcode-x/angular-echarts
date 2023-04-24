@@ -1,3 +1,9 @@
+## Nota
+
+La API histórica de Bittrex ha sido deprecada, por lo tanto el endpoint siguiente ya no tiene validez:
+
+`https://bittrex.com/Api/v2.0/pub/market/GetTicks?marketName=USDT-BTC&tickInterval=Day`
+
 # AngularEcharts
 
 Código completo del tutorial para graficar la evolución del precio de Bitcoin usando Angular & Echarts.
@@ -8,6 +14,10 @@ Código completo del tutorial para graficar la evolución del precio de Bitcoin 
 
 ![alt text](https://github.com/postcode-x/angular-echarts/blob/master/screenshot/bitcoin.png)
 
+
+## Execute
+
+`ng serve --proxy-config proxy.conf.json`
 
 ## Development server
 
